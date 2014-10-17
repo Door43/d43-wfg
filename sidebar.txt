@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wfg:home|Door43 (wfg)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wfg|d43-wfg repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wfg/archive/master.zip|d43-wfg.zip]]
+
+**Recent Changes**
+{{changes>ns = wfg}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wfg|Ethnologue data]]
+
